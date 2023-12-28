@@ -1,0 +1,6 @@
+{
+    "mainframe-url": ["wss://8080-listingclown3-linkjs-mc8zsf0ra1g.ws-us107.gitpod.io/"],
+    "server-url-rest": ["https://3000-listingclown3-linkjs-mc8zsf0ra1g.ws-us107.gitpod.io/"],
+    "PORT": [3000],
+    "requires-port": [false]
+}

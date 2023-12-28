@@ -1,0 +1,6 @@
+{
+    "name": ["placeholder"],
+    "PORT": [8080], 
+    "subdirectory": ["placeholder"],
+    "timeout-duration-minutes": [1] 
+}
